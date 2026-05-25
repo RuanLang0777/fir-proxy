@@ -37,7 +37,7 @@
 <hr/>
 
 <h2 align="center"> 📸 界面截图 </h2>
-<img src=https://github.com/11firefly11/fir-proxy/blob/main/img/代理池.png>
+<img src=https://github.com/RuanLang0777/fir-proxy/blob/main/img/代理池.png>
 
 <p align="center">
 
@@ -54,7 +54,7 @@
 <ol>
   <li>
     <strong>克隆或下载项目</strong>
-<pre><code>git clone https://github.com/your-username/fir-proxy.git
+<pre><code>git clone https://github.com/RuanLang0777/fir-proxy.git
 cd fir-proxy</code></pre>
   </li>
   <li>
