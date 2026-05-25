@@ -38,7 +38,7 @@
 
 <h2 align="center"> 📸 界面截图 </h2>
 <img src=https://github.com/RuanLang0777/fir-proxy/blob/master/img/%E4%BB%A3%E7%90%86%E6%B1%A0.png>
-<img src=https://github.com/RuanLang0777/fir-proxy/blob/master/fir-proxy%20-%201.2/img/IP%E8%BD%AE%E6%8D%A2.png>
+<img src=https://github.com/RuanLang0777/fir-proxy/blob/master/fir-proxy%20-%201.2/img/fofa%E6%94%B6%E9%9B%86.png>
 <img src=https://github.com/RuanLang0777/fir-proxy/blob/master/fir-proxy%20-%201.2/img/IP%E8%BD%AE%E6%8D%A2.png>
 <p align="center">
 
