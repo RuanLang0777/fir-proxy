@@ -37,7 +37,7 @@
 <hr/>
 
 <h2 align="center"> 📸 界面截图 </h2>
-<img src=https://github.com/RuanLang0777/fir-proxy/blob/main/img/代理池.png>
+<img src=https://github.com/RuanLang0777/fir-proxy/blob/master/img/%E4%BB%A3%E7%90%86%E6%B1%A0.png>
 
 <p align="center">
 
