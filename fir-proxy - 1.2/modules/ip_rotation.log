@@ -1,0 +1,163 @@
+2026-05-24 21:02:41 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:02:41 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:02:41 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:02:41 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:02:41 | INFO     | 请求调度器已停止
+2026-05-24 21:02:41 | INFO     | IP轮换管理器已停止
+2026-05-24 21:02:41 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:02:41 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:02:41 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:02:42 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:02:42 | WARNING  | IP轮换已在运行中
+2026-05-24 21:02:42 | INFO     | 请求调度器已停止
+2026-05-24 21:02:42 | INFO     | IP轮换管理器已停止
+2026-05-24 21:02:42 | INFO     | 日志已导出到: C:\Users\wzj78\AppData\Local\Temp\tmpbbp6jyuv\test_export.json
+2026-05-24 21:02:42 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:02:42 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:02:42 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:02:42 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:02:42 | INFO     | 代理切换: 1.1.1.1:8080 -> 2.2.2.2:1080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:02:42 | INFO     | 请求调度器已停止
+2026-05-24 21:02:42 | INFO     | IP轮换管理器已停止
+2026-05-24 21:02:42 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:02:42 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:02:42 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:02:42 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:02:42 | INFO     | 请求调度器已停止
+2026-05-24 21:02:42 | INFO     | IP轮换管理器已停止
+2026-05-24 21:02:42 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:02:42 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:02:42 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:02:42 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:02:43 | INFO     | 请求调度器已停止
+2026-05-24 21:02:43 | INFO     | IP轮换管理器已停止
+2026-05-24 21:02:43 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:02:43 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:02:43 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:02:43 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:02:43 | INFO     | 请求调度器已停止
+2026-05-24 21:02:43 | INFO     | IP轮换管理器已停止
+2026-05-24 21:02:43 | ERROR    | 代理池为空，无法启动IP轮换
+2026-05-24 21:03:08 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:08 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:03:08 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:03:08 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:03:08 | INFO     | 请求调度器已停止
+2026-05-24 21:03:08 | INFO     | IP轮换管理器已停止
+2026-05-24 21:03:08 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:08 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:03:08 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:03:09 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:03:09 | WARNING  | IP轮换已在运行中
+2026-05-24 21:03:09 | INFO     | 请求调度器已停止
+2026-05-24 21:03:09 | INFO     | IP轮换管理器已停止
+2026-05-24 21:03:09 | INFO     | 日志已导出到: C:\Users\wzj78\AppData\Local\Temp\tmpp6jzq6at\test_export.json
+2026-05-24 21:03:09 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:09 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:03:09 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:03:09 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:03:09 | INFO     | 代理切换: 1.1.1.1:8080 -> 2.2.2.2:1080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:09 | INFO     | 请求调度器已停止
+2026-05-24 21:03:09 | INFO     | IP轮换管理器已停止
+2026-05-24 21:03:09 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:09 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:03:09 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:03:09 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:03:09 | INFO     | 请求调度器已停止
+2026-05-24 21:03:09 | INFO     | IP轮换管理器已停止
+2026-05-24 21:03:09 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:09 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:03:09 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:03:10 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:03:10 | INFO     | 请求调度器已停止
+2026-05-24 21:03:10 | INFO     | IP轮换管理器已停止
+2026-05-24 21:03:10 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:10 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:03:10 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:03:10 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:03:10 | INFO     | 请求调度器已停止
+2026-05-24 21:03:10 | INFO     | IP轮换管理器已停止
+2026-05-24 21:03:10 | ERROR    | 代理池为空，无法启动IP轮换
+2026-05-24 21:03:57 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:57 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:03:57 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:03:57 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:03:57 | INFO     | 请求调度器已停止
+2026-05-24 21:03:57 | INFO     | IP轮换管理器已停止
+2026-05-24 21:03:57 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:57 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:03:57 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:03:57 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:03:57 | WARNING  | IP轮换已在运行中
+2026-05-24 21:03:57 | INFO     | 请求调度器已停止
+2026-05-24 21:03:57 | INFO     | IP轮换管理器已停止
+2026-05-24 21:03:57 | INFO     | 日志已导出到: C:\Users\wzj78\AppData\Local\Temp\tmp34rcd9qe\test_export.json
+2026-05-24 21:03:57 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:57 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:03:57 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:03:57 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:03:58 | INFO     | 代理切换: 1.1.1.1:8080 -> 2.2.2.2:1080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:58 | INFO     | 请求调度器已停止
+2026-05-24 21:03:58 | INFO     | IP轮换管理器已停止
+2026-05-24 21:03:58 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:58 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:03:58 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:03:58 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:03:58 | INFO     | 请求调度器已停止
+2026-05-24 21:03:58 | INFO     | IP轮换管理器已停止
+2026-05-24 21:03:58 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:58 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:03:58 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:03:58 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:03:58 | INFO     | 请求调度器已停止
+2026-05-24 21:03:58 | INFO     | IP轮换管理器已停止
+2026-05-24 21:03:58 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:58 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:03:58 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:03:59 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:03:59 | WARNING  | 当前代理 1.1.1.1:8080 在黑名单中，尝试切换
+2026-05-24 21:03:59 | INFO     | 代理切换: 1.1.1.1:8080 -> 2.2.2.2:1080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:03:59 | WARNING  | 代理 2.2.2.2:1080 标记为失败 | 未知异常: 'NoneType' object has no attribute 'get'
+2026-05-24 21:03:59 | INFO     | 请求调度器已停止
+2026-05-24 21:03:59 | INFO     | IP轮换管理器已停止
+2026-05-24 21:03:59 | ERROR    | 代理池为空，无法启动IP轮换
+2026-05-24 21:05:09 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:05:09 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:05:09 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:05:09 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:05:09 | INFO     | 请求调度器已停止
+2026-05-24 21:05:09 | INFO     | IP轮换管理器已停止
+2026-05-24 21:05:09 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:05:09 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:05:09 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:05:09 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:05:09 | WARNING  | IP轮换已在运行中
+2026-05-24 21:05:09 | INFO     | 请求调度器已停止
+2026-05-24 21:05:09 | INFO     | IP轮换管理器已停止
+2026-05-24 21:05:09 | INFO     | 日志已导出到: C:\Users\wzj78\AppData\Local\Temp\tmppk5ec6bp\test_export.json
+2026-05-24 21:05:09 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:05:09 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:05:09 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:05:09 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:05:09 | INFO     | 代理切换: 1.1.1.1:8080 -> 2.2.2.2:1080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:05:09 | INFO     | 请求调度器已停止
+2026-05-24 21:05:09 | INFO     | IP轮换管理器已停止
+2026-05-24 21:05:09 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:05:09 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:05:09 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:05:10 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:05:10 | INFO     | 请求调度器已停止
+2026-05-24 21:05:10 | INFO     | IP轮换管理器已停止
+2026-05-24 21:05:10 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:05:10 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:05:10 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:05:10 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:05:10 | INFO     | 请求调度器已停止
+2026-05-24 21:05:10 | INFO     | IP轮换管理器已停止
+2026-05-24 21:05:10 | INFO     | 代理切换: N/A -> 1.1.1.1:8080 | 原因: 轮换到下一个可用代理
+2026-05-24 21:05:10 | INFO     | 请求调度器已启动 | 目标=https://www.baidu.com | 间隔=0.5s | 超时=10s
+2026-05-24 21:05:10 | INFO     | IP轮换管理器已启动 | 目标=https://www.baidu.com
+2026-05-24 21:05:10 | WARNING  | 代理 1.1.1.1:8080 标记为失败 | 代理连接失败: HTTPSConnectionPool(host='www.baidu.com', port=443): Max retries exceeded with url: / (Caused by ProxyError('Cannot conn
+2026-05-24 21:05:11 | INFO     | 请求调度器已停止
+2026-05-24 21:05:11 | INFO     | IP轮换管理器已停止
+2026-05-24 21:05:11 | ERROR    | 代理池为空，无法启动IP轮换
